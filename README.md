@@ -1,3 +1,5 @@
+**"ECOCHAIN: HARNESSING  DATA SCIENCE TO MINIMIZE 
+CARBON FOOTPRINT IN SUPPLY CHAINS"**
 This study introduces a sophisticated data-driven system tailored for optimizing 
 carbon emissions within industrial operations, with a specific emphasis on supply 
 chain management. Leveraging advanced machine learning methodologies—
